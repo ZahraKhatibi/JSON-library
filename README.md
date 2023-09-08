@@ -42,16 +42,6 @@ To use this script, follow these steps:
 
 - **Main Code**: The main code block reads input, removes spaces, adds brackets if necessary, and utilizes global functions to validate and format the JSON data.
 
-## Dependencies
-
-This script does not have any external dependencies and can be run in any Python environment.
-
 ## Error Handling
 
 The script provides error handling for various JSON-related issues, such as invalid syntax, unexpected characters, and mismatched brackets. If an error is detected, the script will exit and display an error message.
-
-## License
-
-This JSON Parsing and Formatting Script is open-source and available under the [insert license here]. Please refer to the LICENSE file for details on usage and distribution.
-
-Please replace "[insert license here]" in the License section with the actual license information for your script.
