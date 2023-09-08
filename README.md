@@ -45,3 +45,31 @@ To use this script, follow these steps:
 ## Error Handling
 
 The script provides error handling for various JSON-related issues, such as invalid syntax, unexpected characters, and mismatched brackets. If an error is detected, the script will exit and display an error message.
+
+
+
+
+# Interactive JSON Explorer with Curses
+
+This Python script uses the curses library to create an interactive JSON explorer. It allows you to navigate and explore JSON data in a terminal-based environment, with features such as formatting, inline editing, and collapsing nested JSON blocks.
+
+## Features
+
+- JSON Formatting
+- Interactive Navigation
+- Collapsing Nested Blocks
+- Inline Editing
+
+**Use arrow keys to navigate:**
+
+- Up: Move up
+- Down: Move down
+- Right: Expand
+- Left: Collapse
+
+**Other controls:**
+
+- F: Fold (collapse all)
+- U: Unfold (expand all)
+- Q: Quit
+
