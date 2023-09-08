@@ -49,7 +49,7 @@ The script provides error handling for various JSON-related issues, such as inva
 
 
 
-# Interactive JSON Explorer with Curses
+# JSON editor with curses library
 
 This Python script uses the curses library to create an interactive JSON explorer. It allows you to navigate and explore JSON data in a terminal-based environment, with features such as formatting, inline editing, and collapsing nested JSON blocks.
 
