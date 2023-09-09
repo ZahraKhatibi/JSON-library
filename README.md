@@ -1,5 +1,5 @@
 # JSON Parsing and Formatting Script
-![](pic.gif)
+
 ## Overview
 
 This Python script is designed to parse and format JSON (JavaScript Object Notation) strings for better readability and validation. JSON is a widely used data interchange format for representing structured data, and this script provides a means to ensure the validity and proper formatting of JSON data.
