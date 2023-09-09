@@ -1,19 +1,17 @@
 # JSON Parsing and Formatting Script
 
-# JSON Parsing and Formatting Script
-
 ## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Usage](#usage)
-- [Script Structure](#script-structure)
-- [Error Handling](#error-handling)
+- [JSON Parsing and Formatting Script](#jSON-parsing-and-formatting-script)
+    - [Overview](#overview)
+    - [Features](#features)
+    - [Usage](#usage)
+    - [Script Structure](#script-structure)
+    - [Error Handling](#error-handling)
+- [JSON Editor With Curses Library](#jSON-editor-with-curses-library)
+  - [Features](#features)
+  
 
 # JSON editor with curses library
-
-## Table of Contents
-- [Overview](#overview-1)
-- [Features](#features-1)
 
 
 ## Overview
@@ -64,8 +62,7 @@ The script provides error handling for various JSON-related issues, such as inva
 
 
 
-
-# JSON editor with curses library
+# JSON Editor With Curses Library
 
 This Python script uses the curses library to create an interactive JSON explorer. It allows you to navigate and explore JSON data in a terminal-based environment, with features such as formatting, inline editing, and collapsing nested JSON blocks.
 
