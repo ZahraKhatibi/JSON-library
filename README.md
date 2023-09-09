@@ -1,5 +1,21 @@
 # JSON Parsing and Formatting Script
 
+# JSON Parsing and Formatting Script
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Usage](#usage)
+- [Script Structure](#script-structure)
+- [Error Handling](#error-handling)
+
+# JSON editor with curses library
+
+## Table of Contents
+- [Overview](#overview-1)
+- [Features](#features-1)
+
+
 ## Overview
 
 This Python script is designed to parse and format JSON (JavaScript Object Notation) strings for better readability and validation. JSON is a widely used data interchange format for representing structured data, and this script provides a means to ensure the validity and proper formatting of JSON data.
