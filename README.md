@@ -1,4 +1,4 @@
-# JSON Parsing and Formatting Script
+
 
 ## Table of Contents
 - [JSON Parsing and Formatting Script](#jSON-parsing-and-formatting-script)
@@ -11,7 +11,7 @@
   - [Features](#features)
   
 
-# JSON editor with curses library
+# JSON Parsing and Formatting Script
 
 
 ## Overview
