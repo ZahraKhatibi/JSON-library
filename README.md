@@ -58,18 +58,4 @@ This Python script uses the curses library to create an interactive JSON explore
 - JSON Formatting
 - Interactive Navigation
 - Collapsing Nested Blocks
-- Inline Editing
-
-**Use arrow keys to navigate:**
-
-- Up: Move up
-- Down: Move down
-- Right: Expand
-- Left: Collapse
-
-**Other controls:**
-
-- F: Fold (collapse all)
-- U: Unfold (expand all)
-- Q: Quit
 
